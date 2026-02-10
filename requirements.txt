@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+
+# 한글 폰트 지원
+# Linux 사용자는 다음 명령어로 한글 폰트 설치:
+# sudo apt-get install fonts-nanum fonts-nanum-coding
+# fc-cache -fv
